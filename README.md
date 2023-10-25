@@ -35,3 +35,5 @@ docker run -p8081:8081 slawekradzyminski/frontend:latest
 ## Verification
 
 Application should run on [http://localhost:8081](http://localhost:8081)
+
+
